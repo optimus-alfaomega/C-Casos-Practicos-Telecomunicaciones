@@ -1,0 +1,16 @@
+Instalacion de UserPort
+
+1.- Copiar la libreria "inpout32.DLL" en C:\WINDOWS\system32
+2.- Copiar en archivo "UserPort.SYS" en C:\WINDOWS\system32\drivers
+3.- Ejecutar el programa UserPort y darle en Start
+4.- Ejecutar la sentencia de tu programa.
+
+Notas: 
+	* PortDatos es un programa que te permite enviar un numero al puerto LTP 
+          lo colocas en decimal y este lo muestra en binario.
+
+	* El monitor de LEDs es para tener una vsualizacion de los datos que salen 
+	  del puerto (Esta es una propuesta de prueba)
+		
+	* La carpeta de ejemplos tiene ciertas practicas que realice en mis dias de 
+	  estudiante (En su tiempo funcionaron sin problemas)
